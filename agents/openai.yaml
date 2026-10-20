@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 分流与 DNS 防泄露"
+  short_description: "审计和加固 AI 应用分流、加密 DNS、断线拒绝及真实网络隔离边界"
+  default_prompt: "使用 $ai-egress-dns-guard 检查 AI 应用的分流、DNS 和断线保护，先读取当前状态，再修复并给出有证据的结论。"
