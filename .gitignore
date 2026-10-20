@@ -1,0 +1,12 @@
+# Only generic skill content may be tracked.
+*
+!.gitignore
+!SKILL.md
+!agents/
+agents/*
+!agents/openai.yaml
+!references/
+references/*
+!references/routing-and-dns.md
+!references/verification.md
+!references/privacy-and-sharing.md
